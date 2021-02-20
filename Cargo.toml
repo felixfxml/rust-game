@@ -1,0 +1,13 @@
+[package]
+name = "rust-game"
+version = "0.1.0"
+authors = ["Felix <felix.trashmailxd@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+piston_window = "0.117.0"
+piston = "0.52.1"
+piston2d-opengl_graphics = "0.77.0"
+fps_counter = "2.0.0"
